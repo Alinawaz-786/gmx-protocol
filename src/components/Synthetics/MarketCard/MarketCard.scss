@@ -1,0 +1,27 @@
+.info-row {
+  margin-bottom: 0rem;
+}
+
+.MarketCard-pool-balance {
+  .Tooltip {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+}
+
+.MarketCard-pool-balance-bar.ShareBar {
+  background: #fa3c58;
+  width: 100%;
+  min-width: 10rem;
+
+  .ShareBar-fill {
+    background: #0ecc83;
+  }
+}
+
+.MarketCard {
+  .Tooltip-popup {
+    min-width: 32rem;
+  }
+}
